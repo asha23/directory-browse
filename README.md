@@ -1,4 +1,4 @@
-# php directory browse
+# Php Directory Browse
 
 Useful for localhost browsing as it simply picks up what's in a folder.
 
